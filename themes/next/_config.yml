@@ -86,8 +86,8 @@ index_with_subtitle: false
 menu:
   home: / || home
   #about: /about/ || user
-  tags: /tags
-  #categories: /categories/ || th
+  tags: /tags/ || tags
+  categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -96,9 +96,9 @@ menu:
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
-  home: home
-  tags: tags
-  archives: archives
+  #home: home
+  #tags: tags
+  #archives: archives
 
 
 # ---------------------------------------------------------------
