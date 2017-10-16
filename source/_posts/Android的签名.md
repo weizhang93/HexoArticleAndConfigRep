@@ -1,7 +1,7 @@
 ---
 title: Android的签名
 date: 2016-08-28 07:56:29  #发表日期
-categories: Life  #文章分类
+categories: 编程  #文章分类
 tags: [Android]  #文章标签，多标签时使用英文逗号隔开
 ---
 

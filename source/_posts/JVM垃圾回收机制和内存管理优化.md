@@ -1,7 +1,7 @@
 ---
 title: JVM垃圾回收机制和内存管理优化
 date: 2016-08-29 07:56:29  #发表日期
-categories: Life  #文章分类
+categories: 编程  #文章分类
 tags: [Java]  #文章标签，多标签时使用英文逗号隔开
 photos:  #如果使用Fancybox（文章头部展示图片），如此设置
 - https://raw.githubusercontent.com/weizhang93/PicRep/master/sailing-boat-1593613_960_720.jpg
